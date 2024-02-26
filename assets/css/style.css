@@ -1,0 +1,25 @@
+.header{
+	width: 100%;
+	display: block;
+	background-image: url(../img/bg-header.jpg);
+	height: 727px;
+}
+.text{
+	text-align: center;
+	
+}
+.sect {
+	border: 5px;
+	border-style: solid;
+	border-color: rebeccapurple;
+
+
+}
+.div1 {
+	border: 5px;
+	border-style: solid;
+	border-color: blue;
+	display: inline-block;
+	width: 50%;
+
+}
